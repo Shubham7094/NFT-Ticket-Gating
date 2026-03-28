@@ -294,3 +294,9 @@ pub struct TicketStats {
 ---
 
 *Built with ❤️ using [Soroban SDK](https://soroban.stellar.org/) on the Stellar Network.*
+
+## Contract Details
+
+Contract ID: CDF3W45BPZQHEDLF7KNDSD43KVPYH3BBMWU2F7H4UEVSSFRHWEXGC7F5
+<img width="1888" height="968" alt="image" src="https://github.com/user-attachments/assets/d492858e-d24e-487e-a4ca-f7ca46b3009d" />
+
